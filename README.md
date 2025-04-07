@@ -39,7 +39,7 @@ estruturas-dados-objectpascal-swift/
 │   ├── sets/
 │   └── dicionario/
 │
-├── slides/                     # Apresentações em PDF ou PPTX
+├── video/                      # Vídeo de apresentação
 │
 ├── relatorio/                  # Relatório final em PDF/DOCX
 │
@@ -51,12 +51,26 @@ estruturas-dados-objectpascal-swift/
 ## 👥 Equipe
 
 - **Gabryelle Duarte** – Listas em Object Pascal
+   - GitHub: https://github.com/GabryelleDart
+   - LinkedIn: https://www.linkedin.com/in/gabryelleduartem/
 - **Carlos Henrique** – Pilhas e Filas em Object Pascal
+   - GitHub: 
+   - LinkedIn: 
 - **Thiago Ferreira** – Dicionário em Object Pascal e Gravação do Vídeo
+   - GitHub: https://github.com/thiagofrdev
+   - LinkedIn: https://www.linkedin.com/in/thiagoferreiraribeiro/
 - **Maria Eduarda** – Arrays e Listas em Swift
+   - GitHub: https://github.com/Mescxll
+   - LinkedIn: https://www.linkedin.com/in/maria-eduarda-santos-campos-dev/
 - **Helen Santos** – Sets em Swift
+   - GitHub: https://github.com/sunHelen12
+   - LinkedIn: https://www.linkedin.com/in/helen-santos-dev/
 - **Vinícius Nunes** – Dicionário em Swift
+   - GitHub: https://github.com/Venan42
+   - LinkedIn: https://www.linkedin.com/in/vin%C3%ADcius-nunes-de-andrade-394957357/
 - **Kaique Silva** – Supervisão geral e Edição do Vídeo
+   - GitHub: https://github.com/KAHISS
+   - LinkedIn: 
 
 ---
 
